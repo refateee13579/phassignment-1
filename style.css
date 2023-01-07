@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.hero-image {
+    background-image: url("images/banner/banner1.png");
+    width:100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+  }
+  .pH{position: absolute;
+  width: 525px;
+  height: 228px;
+  left: 845px;
+  top: 150px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+  }
+.apple{
+    
+position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 370px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+
+text-align: right;
+color: #444343;
+
+
+}
+.mango{
+  color: white;
+position: absolute;
+width: 160px;
+height: 64px;
+left: 1240px;
+top: 490px;
+background-color: cornflowerblue;
+width: 8%;
+height: 5%;
+text-align:center;
+border-style: solid;
+border-radius: 5px;
+ border-color: black;
+
+}
+.jackfruit{
+  background-repeat: no-repeat;
+  position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+}
+.learn{
+  position: absolute;
+  width: 416px;
+  height: 200px;
+  left: 550px;
+  top: 200px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 50px;
+text-align: right;
+}
+.study{
+  position: absolute;
+  width: 416px;
+  height: 200px;
+  left: 670px;
+  top: 325px;
+
+}
+.mouse{
+  position: absolute;
+  width: 416px;
+  height: 200px;
+  left: 690px;
+  top:400px;
+}
+.jackfruit i.fa-check{
+  position: absolute;
+  width: 416px;
+  height: 200px;
+  left: 670px;
+  top:400px;
+}
+.about{
+  position: absolute;
+width: 569px;
+height: 723.3px;
+left: 400px;
+top: 1900px;
+}
+.me{
+  position: absolute;
+  width: 569px;
+  height: 723.3px;
+  left: 50px;
+  top: -200px;
+  font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 50px;
+text-align: right;
+}
+.ice
+{
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 15px;
+  line-height: 20px;
+  text-align:left;
+  }
+  .java{position: absolute;
+width: 569px;
+height: 723.3px;
+left: 700px;
+top: 1900px;
+  }
+  .mass{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 15px;
+    line-height: 20px;
+
+  }
+  .make{position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 1000px;
+    top: 1900px;
+  }
+  .smoke{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .youtube{position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 1300px;
+    top: 1900px;
+  }
+  .ytube{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .watch{
+    position: absolute;
+    width:400px;
+    height: 300px;
+    left: 350px;
+    top: 2150.26px;
+    
+  
+}
+.watch{
+    position: absolute;
+    width:400px;
+    height: 300px;
+    left: 350px;
+    top: 2150.26px;
+    background:linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+  border: radius 8px;
+}
+.foot{
+  position: absolute;
+width: 1900px;
+height: 400px;
+left: 0px;
+top: 2600.26px;
+background: #151414;
+color:white}
+.future{
+  position: absolute;
+width: 200px;
+height: 200px;
+left:50px;
+top: 50.26px
+
+}
+.three{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left:50px;
+  top: 180px;
+}
+.star{
+  margin-top:100px;
+  margin-left: 50px;
+}
+.mark{
+  margin-top: 150px;
+  margin-left: 50px;
+}
+.adv{
+  width: 5px;
+  margin-left: 1000px;
+  margin-top: -100px;
+}
+.ssc{
+  margin-left:1000px;
+  margin-top: 30px;
+  width: 8%;
+  height: 5%;
+  background-color: palevioletred;
+  text-align:center;
+  border-style: solid;
+  border-radius: 5px;
+   border-color: white;
+  
+}
